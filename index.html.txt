@@ -1,0 +1,11 @@
+﻿
+<html>
+    <head>
+        <title>My first web page</title>
+        <meta http-equiv="content="text/html;charset=gb2312"/>
+    <head>
+    <body>
+        <p>Hello,world!</p>
+        <img grc="banner.jpg" alt="风景"/>
+    <body>
+<html> 
